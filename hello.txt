@@ -1,3 +1,6 @@
 hello
 i am juhyeon
+<<<<<<< HEAD
 I am b
+
+and I am A 
